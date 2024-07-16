@@ -26,7 +26,7 @@ Loan eligibility prediction is a common task in the financial sector. This web a
 
 You can access the live application using the following link:
 
-[Loan Eligibility Prediction Web App](https://loaneligibiltyprediction-web-app-gw723an5hcgxwqyuac9ppi.streamlit.app/)
+[Loan Eligibility Prediction Web App](https://loan-eligibilty-predictor-shantanucodes.streamlit.app/)
 
 1. Open the link in your web browser.
 2. Enter the required details in the input fields.
