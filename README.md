@@ -1,4 +1,5 @@
-# Loan Eligibility Prediction Web Application By Shantanu Vedante
+## Project Name: Loan Eligibility Prediction Web Application
+
 
 This repository contains a web application for predicting loan eligibility using a logistic regression model. The application is built with Streamlit and provides an interactive interface for users to input their details and get predictions on their loan eligibility.
 
@@ -39,3 +40,6 @@ The logistic regression model used in this application is Random Forest Classifi
 ## Contributing
 
 Contributions are welcome! If you have any suggestions or improvements, feel free to open an issue or submit a pull request. Please ensure that your contributions align with the project's goals and follow the existing coding style.
+## Author
+
+This project was created by [Shantanu Vedante](https://github.com/coderx0319/). You can connect with me on [LinkedIn](https://www.linkedin.com/in/shantanuvedante23/) and follow me [[here](https://github.com/coderx0319)]
