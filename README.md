@@ -1,4 +1,4 @@
-# Loan Eligibility Prediction Web App
+# Loan Eligibility Prediction Web Application By Shantanu Vedante
 
 This repository contains a web application for predicting loan eligibility using a logistic regression model. The application is built with Streamlit and provides an interactive interface for users to input their details and get predictions on their loan eligibility.
 
